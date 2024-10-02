@@ -11,7 +11,7 @@ This educational project aims to investigate the correlation between the variabl
 
 ## Features
 - EDA of dataset
-- Hypothesis Test
+- Hypothesis Tests to quantify the correlation between some variables
 - Linear Regression Model
 - Evaluation od the model
 
