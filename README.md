@@ -8,6 +8,7 @@
 
 ## Introduction
 This educational project aims to investigate the correlation between the variables of dataset and the weight of newborns and to realise a linear regression model to predict the weight.
+The project was developed in R.
 
 ## Features
 - EDA of dataset
